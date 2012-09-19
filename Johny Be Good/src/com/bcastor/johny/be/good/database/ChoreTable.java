@@ -4,7 +4,7 @@ import android.util.Log;
 
 public class ChoreTable {
 
-  // Database table
+  // changing a comment
   public static final String TABLE_CHORES = "chores";
   public static final String COLUMN_ID = "_id";
   public static final String COLUMN_CATEGORY = "category";
