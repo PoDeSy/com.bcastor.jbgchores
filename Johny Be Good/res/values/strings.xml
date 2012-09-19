@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Johny Be Good</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_chores_overview">ChoresOverviewActivity</string>
+	<string name="no_chores">Currently there are no Todo items maintained</string>
+  	<string name="menu_insert">Add Item</string>
+  	<string name="menu_delete">Delete Todo</string>
+  	<string name="chore_summary">Summary</string>
+  	<string name="chore_description">Delete Todo</string>
+  	<string name="chore_edit_summary">Summary</string>
+  	<string name="chore_edit_description">Description</string>
+  	<string name="chore_edit_confirm">Confirm</string>
+</resources>
