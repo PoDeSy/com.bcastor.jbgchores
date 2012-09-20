@@ -16,8 +16,8 @@ import com.bcastor.johny.be.good.database.ChoreContentProvider;
 import com.bcastor.johny.be.good.database.ChoreTable;
 
 /*
- * TodoDetailActivity allows to enter a new todo item 
- * or to change an existing
+ * Testing comment change commit on working branch 
+ * 
  */
 public class ChoreDetailActivity extends Activity {
   private Spinner mCategory;
